@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Toni, and I'm the owner of Steel City Suds!
+
 <!--
 **SteelCitySuds/steelcitysuds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
